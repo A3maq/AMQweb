@@ -1,0 +1,65 @@
+[11-Jul-2017 14:31:37 UTC] خطأ Unknown column 'sadp_' in 'field list' في قاعدة بيانات ووردبريس  للاستعلام 
+[23-Jul-2017 14:33:17 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/a3maqnews/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 430
+[23-Jul-2017 15:08:17 UTC] PHP Warning:  getimagesize(/home/a3maqnews/public_html/wp-content/uploads/revslider/objects/relax_hammock.jpg): failed to open stream: No such file or directory in /home/a3maqnews/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 945
+[23-Jul-2017 15:08:18 UTC] PHP Warning:  getimagesize(/home/a3maqnews/public_html/wp-content/uploads/revslider/objects/beach_houses.jpg): failed to open stream: No such file or directory in /home/a3maqnews/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 945
+[23-Jul-2017 15:08:18 UTC] PHP Warning:  getimagesize(/home/a3maqnews/public_html/wp-content/uploads/revslider/objects/object_dvd_1.png): failed to open stream: No such file or directory in /home/a3maqnews/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 945
+[23-Jul-2017 15:08:18 UTC] PHP Warning:  getimagesize(/home/a3maqnews/public_html/wp-content/uploads/revslider/objects/object_plant_1.png): failed to open stream: No such file or directory in /home/a3maqnews/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 945
+[23-Jul-2017 15:08:18 UTC] PHP Warning:  getimagesize(/home/a3maqnews/public_html/wp-content/uploads/revslider/objects/forest_road_2.jpg): failed to open stream: No such file or directory in /home/a3maqnews/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 945
+[23-Jul-2017 15:08:19 UTC] PHP Warning:  getimagesize(/home/a3maqnews/public_html/wp-content/uploads/revslider/objects/object_pen_1.png): failed to open stream: No such file or directory in /home/a3maqnews/public_html/wp-content/plugins/revslider/includes/object-library.class.php on line 945
+[24-Jul-2017 13:15:49 UTC] PHP Parse error:  syntax error, unexpected 'tretertet' (T_STRING) in /home/a3maqnews/public_html/wp-content/plugins/list-category-posts/include/lcp-catlist.php on line 208
+[24-Jul-2017 14:08:46 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/a3maqnews/public_html/wp-content/plugins/list-category-posts/include/lcp-catlist.php on line 360
+[24-Jul-2017 14:09:24 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/a3maqnews/public_html/wp-content/plugins/list-category-posts/include/lcp-catlist.php on line 360
+[24-Jul-2017 14:09:25 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/a3maqnews/public_html/wp-content/plugins/list-category-posts/include/lcp-catlist.php on line 360
+[24-Jul-2017 14:09:31 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/a3maqnews/public_html/wp-content/plugins/list-category-posts/include/lcp-catlist.php on line 360
+[24-Jul-2017 14:09:35 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/a3maqnews/public_html/wp-content/plugins/list-category-posts/include/lcp-catlist.php on line 360
+[24-Jul-2017 14:10:40 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/a3maqnews/public_html/wp-content/plugins/list-category-posts/include/lcp-catlist.php on line 360
+[24-Jul-2017 14:11:02 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/a3maqnews/public_html/wp-content/plugins/list-category-posts/include/lcp-catlist.php on line 360
+[24-Jul-2017 14:12:46 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/a3maqnews/public_html/wp-content/plugins/list-category-posts/include/lcp-catlist.php on line 360
+[24-Jul-2017 14:45:57 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/a3maqnews/public_html/wp-content/plugins/list-category-posts/include/lcp-catlist.php on line 192
+[24-Jul-2017 14:45:58 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/a3maqnews/public_html/wp-content/plugins/list-category-posts/include/lcp-catlist.php on line 192
+[24-Jul-2017 15:05:48 UTC] PHP Parse error:  syntax error, unexpected '$lcp_display_output' (T_VARIABLE), expecting function (T_FUNCTION) in /home/a3maqnews/public_html/wp-content/plugins/list-category-posts/include/lcp-catlist.php on line 323
+[24-Jul-2017 15:06:40 UTC] PHP Parse error:  syntax error, unexpected '$lcp_display_output' (T_VARIABLE), expecting function (T_FUNCTION) in /home/a3maqnews/public_html/wp-content/plugins/list-category-posts/include/lcp-catlist.php on line 323
+[25-Jul-2017 09:17:55 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/a3maqnews/public_html/wp-content/plugins/list-category-posts/include/lcp-catlistdisplayer.php on line 269
+[26-Jul-2017 08:41:48 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/a3maqnews/public_html/wp-content/plugins/list-category-posts/include/lcp-catlistdisplayer.php on line 277
+[26-Jul-2017 15:17:57 UTC] PHP Parse error:  syntax error, unexpected ''<div>'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/a3maqnews/public_html/wp-content/plugins/list-category-posts/include/lcp-catlist.php on line 419
+[10-Aug-2017 10:56:09 UTC] [Cloudflare] ERROR: [CLIENT API] Array
+(
+    [type] => request
+    [path] => https://api.cloudflare.com/client/v4/user/
+    [timeout] => 30
+    [method] => GET
+    [headers] => Array
+        (
+            [X-Auth-Key] => 53674d9089e46707277a1b874db29183
+            [X-Auth-Email] => a3mmaaaqqqssss@outlook.com
+            [Content-Type] => application/json
+        )
+
+)
+ 
+[10-Aug-2017 10:56:09 UTC] [Cloudflare] ERROR: [CLIENT API] Array
+(
+    [type] => response
+    [reason] => Bad Request
+    [code] => 400
+)
+ 
+[10-Aug-2017 10:56:09 UTC] [Cloudflare] ERROR: Bad Request 
+[10-Aug-2017 10:56:09 UTC] [Cloudflare] ERROR: Email address or API key invalid. 
+[17-Oct-2017 09:37:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/amaqagency/public_html/wp-content/mu-plugins/wp-hide-loader.php on line 18
+[17-Oct-2017 09:44:08 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 786432 bytes) in /home/amaqagency/public_html/wp-content/plugins/jetpack/locales.php on line 2149
+[17-Oct-2017 09:47:38 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 49152 bytes) in /home/amaqagency/public_html/wp-admin/menu.php on line 98
+[17-Oct-2017 09:47:46 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 49152 bytes) in /home/amaqagency/public_html/wp-admin/includes/user.php on line 95
+[17-Oct-2017 09:50:38 UTC] PHP Warning:  file(/home/amaqagency/public_html/.htaccess): failed to open stream: No such file or directory in /home/amaqagency/public_html/wp-content/plugins/wp-hide-security-enhancer/include/wph.class.php on line 813
+[17-Oct-2017 09:50:38 UTC] PHP Warning:  preg_grep() expects parameter 2 to be array, boolean given in /home/amaqagency/public_html/wp-content/plugins/wp-hide-security-enhancer/include/wph.class.php on line 815
+[17-Oct-2017 09:50:38 UTC] PHP Warning:  preg_grep() expects parameter 2 to be array, boolean given in /home/amaqagency/public_html/wp-content/plugins/wp-hide-security-enhancer/include/wph.class.php on line 815
+[17-Oct-2017 13:02:22 UTC] PHP Warning:  fopen(/home/amaqagency/public_html/wp-content/plugins/jetpack§§/jetpack.php): failed to open stream: No such file or directory in /home/amaqagency/public_html/wp-includes/functions.php on line 4785
+[17-Oct-2017 13:02:22 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/amaqagency/public_html/wp-includes/functions.php on line 4788
+[17-Oct-2017 13:02:22 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/amaqagency/public_html/wp-includes/functions.php on line 4791
+[17-Oct-2017 13:02:22 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 72 bytes) in /home/amaqagency/public_html/wp-includes/compat.php on line 181
+[17-Oct-2017 13:03:37 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1048576 bytes) in /home/amaqagency/public_html/wp-includes/pomo/translations.php on line 94
+[17-Oct-2017 13:03:40 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1048576 bytes) in /home/amaqagency/public_html/wp-includes/pomo/translations.php on line 94
+[17-Oct-2017 13:04:02 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1048576 bytes) in /home/amaqagency/public_html/wp-includes/pomo/translations.php on line 94
+[17-Oct-2017 13:08:20 UTC] PHP Warning:  fopen(/home/amaqagency/public_html/wp-content/plugins/jetpack11/jetpack.php): failed to open stream: No such file or directory in /home/amaqagency/public_html/wp-includes/functions.php on line 4785
+[17-Oct-2017 13:08:20 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/amaqagency/public_html/wp-includes/functions.php on line 4788
+[17-Oct-2017 13:08:20 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/amaqagency/public_html/wp-includes/functions.php on line 4791
